@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 397016579
+    locked: 0
+  - name: Ground
+    uniqueID: 3711188983
+    locked: 0
+  - name: Floating Ground
+    uniqueID: 974140613
+    locked: 0
+  - name: Laddar Ground
+    uniqueID: 2219780709
+    locked: 0
+  - name: TunnelLight
+    uniqueID: 2293739549
+    locked: 0
+  - name: Hazards
+    uniqueID: 132147289
+    locked: 0
+  - name: Enemies
+    uniqueID: 582783825
+    locked: 0
+  - name: Bullet Attack
+    uniqueID: 2193539307
+    locked: 0
+  - name: Player
+    uniqueID: 3910888443
+    locked: 0
