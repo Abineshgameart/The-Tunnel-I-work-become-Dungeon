@@ -9,6 +9,7 @@ Library: D:\Github\The-Tunnel-I-work-become-Dungeon\Tunnel I work become Dungeon
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Github\The-Tunnel-I-work-become-Dungeon\Tunnel I work become Dungeon\Temp\Burst
+--debug=Full
 --key-folder=D:/UNITY/HUB/EDITOR/2022.3.50f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=D:\Github\The-Tunnel-I-work-become-Dungeon\Tunnel I work become Dungeon\Library\Burst
 --output=D:\Github\The-Tunnel-I-work-become-Dungeon\Tunnel I work become Dungeon\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
